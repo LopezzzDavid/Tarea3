@@ -1,6 +1,7 @@
-<h1> Tarea 3 - Manejo básico de Archivos y Directorios </h1>
+<h1 align = "center"> Tarea 3 - Manejo básico de Archivos y Directorios </h1>
 
 <p align = "center"> David Santiago López Maldonado </p>
+<p align = "center"> Sistemas Digitales III </p>
 <p align = "center"> Agosto 2025 </p>
 
 ---
